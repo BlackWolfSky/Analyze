@@ -387,7 +387,7 @@ MVVM 架构模式是微软在 2005 年诞生的，从诞生一开始就与 WPF �
 + [What are MVP and MVC and what is the difference? · Stack Overflow](https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
 + [Model-View-Presenter Pattern](http://webclientguidance.codeplex.com/wikipage?title=ModelViewPresenterPatternDescription&referringTitle=MVPDocumentation)
 + [Patterns - WPF Apps With The Model-View-ViewModel Design Pattern · MSDN](https://msdn.microsoft.com/en-us/magazine/dd419663.aspx)
-+ [Introduction to Model/View/ViewModel pattern for building WPF apps](https://blogs.msdn.microsoft.com/johngossman/2005/10/08/introduction-to-modelviewviewmodel-pattern-for-building-wpf-apps/ · MSDN)
++ [Introduction to Model/View/ViewModel pattern for building WPF apps · MSDN](https://blogs.msdn.microsoft.com/johngossman/2005/10/08/introduction-to-modelviewviewmodel-pattern-for-building-wpf-apps/)
 + [设计模式](https://en.wikipedia.org/wiki/Design_Patterns)
 
 
